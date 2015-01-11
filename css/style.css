@@ -1,0 +1,53 @@
+body{
+    background:url(../images/noisy_net_@2X.png);  
+    color:white;
+    text-align: center;
+    font-family: "Open Sans";
+}
+    .image{
+        border:5px solid white;
+        background:url(../images/david.jpg) center center;
+        background-position: cover;
+        border-radius: 100%;
+        width:400px;
+        height:400px;
+        margin-top:100px;
+        margin-left:auto;
+        margin-bottom:100px;
+        margin-right:auto;
+    }
+    .title{
+        font-size:36px;   
+    }
+    .description{
+        font-size:20px;   
+    }
+    input{
+        border:0;
+        padding:15px;
+        font-size:16px;
+        margin:10px 0;
+    }
+        input[type = "submit"]{
+            background:red;
+            color:white;
+        }
+
+    .facts{
+        margin:200px auto;
+        width:760px;
+    }
+        .box{
+            border-bottom:1px solid white;
+            margin-bottom:100px;
+            text-align: justify;
+            font-size:18px;
+        }
+        
+    footer{
+        color:#808080;  
+    }
+        .author{
+            color:red;
+        }
+        
